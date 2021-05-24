@@ -1,4 +1,0 @@
-
-@interface TreeNode : NSObject
-
-@end
